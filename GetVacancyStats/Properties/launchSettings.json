@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "GetVacancyStats": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SECRET_KEY": "YCPVRrEhMiTcGEIjBw_DFB5a5tbIEIANdOJG4MDI",
+        "ACCESS_KEY": "YCAJEAzra7w1m0RGJ6IXh1neV"
+      }
+    }
+  }
+}

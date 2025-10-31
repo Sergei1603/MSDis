@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MSDis": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ACCESS_KEY": "YCAJEAzra7w1m0RGJ6IXh1neV",
+        "SECRET_KEY": "YCPVRrEhMiTcGEIjBw_DFB5a5tbIEIANdOJG4MDI"
+      }
+    }
+  }
+}
